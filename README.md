@@ -1,10 +1,10 @@
 # Список задач (Todo List)
 
-Простой TODO-лист на React + TypeScript. Тестовое задание для Junior Frontend Developer.
+Простой TODO-лист на React + TypeScript.
 
-## Демо
+## Демо LINK
 
-https://zalogtest.vercel.app/
+https://todotesttask-five.vercel.app/
 
 ## Стек
 
